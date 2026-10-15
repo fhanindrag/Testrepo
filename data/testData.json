@@ -1,0 +1,15 @@
+{
+  "users": {
+    "standard": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    }
+  },
+  "product": {
+    "name": "Sauce Labs Backpack"
+  },
+  "github": {
+    "owner": "microsoft",
+    "repository": "playwright"
+  }
+}
